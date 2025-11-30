@@ -1,8 +1,8 @@
-# Brian Banna [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianbanna) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briannbanna@gmail.com)
+# Brian Banna
 
 Master's student in Data Science with a minor in Financial Engineering @ EPFL - **Passionate about quantitative finance, systematic trading, and commodities.**
 
-Geneva, Switzerland
+Geneva, Switzerland [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianbanna) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briannbanna@gmail.com)
 
 ## About Me
 
