@@ -1,4 +1,4 @@
-# Brian Banna <a href="https://www.linkedin.com/in/brianbanna" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20" style="vertical-align: middle; margin-left: 8px;"/></a> <a href="mailto:briannbanna@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="20" style="vertical-align: middle; margin-left: 4px;"/></a>
+# Brian Banna <a href="https://www.linkedin.com/in/brianbanna" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" style="vertical-align: middle; margin-left: 8px;"/></a> <a href="mailto:briannbanna@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" style="vertical-align: middle; margin-left: 4px;"/></a>
 
 Master's student in Data Science with a minor in Financial Engineering @ EPFL - **Passionate about quantitative finance, systematic trading, and commodities.**
 
