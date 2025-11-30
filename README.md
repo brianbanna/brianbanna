@@ -1,52 +1,110 @@
-# Brian Banna
+# Brian Banna <a href="https://www.linkedin.com/in/brianbanna" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20" height="20" style="vertical-align: middle; margin-left: 8px; filter: brightness(0) saturate(100%) invert(27%) sepia(96%) saturate(1352%) hue-rotate(195deg) brightness(95%) contrast(90%);"/></a> <a href="mailto:briannbanna@gmail.com" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="20" height="20" style="vertical-align: middle; margin-left: 4px; filter: brightness(0) saturate(100%) invert(37%) sepia(90%) saturate(1352%) hue-rotate(340deg) brightness(97%) contrast(96%);"/></a>
 
-**Master's student in Data Science with a minor in Financial Engineering @ EPFL · Focused on quantitative finance, systematic trading, and commodities.**
+Master's student in Data Science with a minor in Financial Engineering @ EPFL - **Passionate about quantitative finance, systematic trading, and commodities.**
 
-Based in Geneva, Switzerland
+Geneva, Switzerland
+
+## About Me
+
+- Master's student in Data Science with a minor in Financial Engineering at EPFL. I combine **quantitative methods, financial mathematics, and programming** to build models that support data-driven decisions in finance.
+
+- My work focuses on **statistical modeling, time-series analysis, and systematic strategy design**. I study market dynamics, develop analytical frameworks, and backtest strategies grounded in data and financial logic.
+
+- I build and test **systematic trading strategies** and **quantitative models** across commodities and global markets, specializing in **backtesting, volatility modelling, and regime detection** for real-world trading applications.
 
 ## Tech Stack
 
-### Languages
+<table style="border-spacing: 10px; border-collapse: separate;">
+<tr>
+<td style="background-color: #FFFFFF; padding: 10px; border-radius: 6px; border: 1px solid #E0E0E0; vertical-align: top; width: 50%;">
 
-<div align="left">
+<h3 style="color: #4A4A4A; margin-top: 0; font-size: 1.1em; margin-bottom: 8px; text-align: left;">Languages & Environments</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<div align="center" style="margin: 12px 0;">
 
-</div>
-
-### Frameworks & Tools
-
-<div align="left">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-000000?style=flat-square)
-![QuantLib](https://img.shields.io/badge/QuantLib-000000?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-4A4A4A?style=flat-square&logo=python&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/R-4A4A4A?style=flat-square&logo=r&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Java-4A4A4A?style=flat-square&logo=openjdk&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/TypeScript-4A4A4A?style=flat-square&logo=typescript&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Scala-4A4A4A?style=flat-square&logo=scala&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/SQL-4A4A4A?style=flat-square&logo=postgresql&logoColor=white" style="margin: 0 1px;"/>
 
 </div>
 
-## Let's Connect
+</td>
+<td style="background-color: #FFFFFF; padding: 10px; border-radius: 6px; border: 1px solid #E0E0E0; vertical-align: top; width: 50%;">
 
+<h3 style="color: #4A4A4A; margin-top: 0; font-size: 1.1em; margin-bottom: 8px; text-align: left;">Quant & Research Libraries</h3>
+
+<div align="center" style="margin: 12px 0;">
+
+  <img src="https://img.shields.io/badge/NumPy-4A4A4A?style=flat-square&logo=numpy&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Pandas-4A4A4A?style=flat-square&logo=pandas&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/scikit--learn-4A4A4A?style=flat-square&logo=scikit-learn&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Statsmodels-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/QuantLib-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/PyTorch-4A4A4A?style=flat-square&logo=pytorch&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/TensorFlow-4A4A4A?style=flat-square&logo=tensorflow&logoColor=white" style="margin: 0 1px;"/>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td style="background-color: #FFFFFF; padding: 10px; border-radius: 6px; border: 1px solid #E0E0E0; vertical-align: top; width: 50%;">
+
+<h3 style="color: #4A4A4A; margin-top: 0; font-size: 1.1em; margin-bottom: 8px; text-align: left;">Backtesting & Trading Systems</h3>
+
+<div align="center" style="margin: 12px 0;">
+
+  <img src="https://img.shields.io/badge/Backtrader-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Vectorbt-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Zipline-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Pyfolio-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px;"/>
+
+</div>
+
+</td>
+<td style="background-color: #FFFFFF; padding: 10px; border-radius: 6px; border: 1px solid #E0E0E0; vertical-align: top; width: 50%;">
+
+<h3 style="color: #4A4A4A; margin-top: 0; font-size: 1.1em; margin-bottom: 8px; text-align: left;">Visualisation & Reporting</h3>
+
+<div align="center" style="margin: 12px 0;">
+
+  <img src="https://img.shields.io/badge/Matplotlib-4A4A4A?style=flat-square&logo=matplotlib&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Seaborn-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Plotly-4A4A4A?style=flat-square&logo=plotly&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Jupyter-4A4A4A?style=flat-square&logo=jupyter&logoColor=white" style="margin: 0 1px;"/>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; padding: 0;">
 <div align="center">
+<div style="background-color: #FFFFFF; padding: 10px; border-radius: 6px; border: 1px solid #E0E0E0; vertical-align: top; width: 50%; display: inline-block;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianbanna) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briannbanna@gmail.com)
+<h3 style="color: #4A4A4A; margin-top: 0; font-size: 1.1em; margin-bottom: 8px; text-align: left;">Tools & DevOps</h3>
+
+<div align="center" style="margin: 12px 0;">
+
+  <img src="https://img.shields.io/badge/Git-4A4A4A?style=flat-square&logo=git&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Docker-4A4A4A?style=flat-square&logo=docker&logoColor=white" style="margin: 0 1px;"/>
+  <img src="https://img.shields.io/badge/Linux-4A4A4A?style=flat-square&logo=linux&logoColor=white" style="margin: 0 1px;"/>
 
 </div>
 
-By [brianbanna](https://github.com/brianbanna)
+</div>
+</div>
+</td>
+</tr>
+</table>
+
+## Projects
+
+- **[Adaptive Statistical Arbitrage in Commodity Markets](https://github.com/brianbanna/adaptive-stat-arb-commodities)** - Analyzing how regime shifts and price spreads evolve across major commodities.
+
+- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** - Modeling and trading curve factors in commodity futures markets.
+
+- **[AirJav](https://github.com/brianbanna/AirJav)** - Java-based application that decodes and visualizes live ADS-B aircraft data, combining real-time data processing with performance optimization techniques for data and signal analysis.
