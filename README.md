@@ -1,6 +1,6 @@
 # Brian Banna
 
-Master's in Data Science, minor in Financial Engineering @ EPFL — **Quantitative finance, systematic trading and commodity markets.**
+Master's in Data Science, minor in Financial Engineering @ EPFL - **Quantitative finance, systematic trading and commodity markets.**
 
 Based in Geneva, Switzerland
 
