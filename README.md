@@ -1,6 +1,6 @@
 # Brian Banna
 
-Master's student in Data Science with a minor in Financial Engineering @ EPFL - **Passionate about quantitative finance, systematic trading, and commodities.**
+Master's in Data Science, minor in Financial Engineering @ EPFL — **Quantitative finance, systematic trading and commodity markets.**
 
 Based in Geneva, Switzerland
 
@@ -14,9 +14,9 @@ Based in Geneva, Switzerland
 
 ## About Me
 
-- Master's student in Data Science with a minor in Financial Engineering at EPFL. I combine **quantitative methods, financial mathematics, and programming** to build models that support data-driven decisions in finance.
-- My work focuses on **statistical modeling, time-series analysis, and systematic strategy design**. I study market dynamics, develop analytical frameworks, and backtest strategies grounded in data and financial logic.
-- I build and test **systematic trading strategies** and **quantitative models** across commodities and global markets, specializing in **backtesting, volatility modelling, and regime detection** for real-world trading applications.
+- Studying Data Science with a Financial Engineering minor at EPFL. Research interests at the intersection of **statistical modelling, stochastic processes and quantitative trading**.
+- Current work centres on **time-series econometrics, regime detection and factor-based strategy design** applied to commodity futures and global macro markets.
+- Building and backtesting **systematic strategies** with a focus on **cointegration, volatility modelling and portfolio construction** under realistic execution assumptions.
 
 ## Tech Stack
 
@@ -81,7 +81,7 @@ Based in Geneva, Switzerland
 
 ## Projects
 
-- **[Adaptive Statistical Arbitrage in Commodity Markets](https://github.com/brianbanna/adaptive-stat-arb-commodities)** - Analyzing how regime shifts and price spreads evolve across major commodities.
-- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** - Modeling and trading curve factors in commodity futures markets.
-- **[Systematic Trend-Following Trading Strategy for Commodities](https://github.com/brianbanna/regime-trend-risk)** - Analyzing and trading regime-adaptive trend and risk dynamics across global commodity futures markets.
-- **[AirJav](https://github.com/brianbanna/AirJav)** - Java-based application that decodes and visualizes live ADS-B aircraft data, combining real-time data processing with performance optimization techniques for data and signal analysis.
+- **[Adaptive Statistical Arbitrage in Commodity Spreads](https://github.com/brianbanna/adaptive-stat-arb-commodities)** - Cointegration-based spread trading on commodity pairs using Kalman filter hedge ratios, regime-aware entry signals, and full spread backtesting.
+- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** - Term structure modelling of commodity futures with carry, slope, curvature, and momentum factors traded via cross-sectional and time-series strategies, accounting for roll costs and portfolio-level backtesting.
+- **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** - Regime classification using Hidden Markov Models, GARCH volatility estimates, and clustering, combined into a probability ensemble for regime-driven portfolio allocation.
+- **[AirJav](https://github.com/brianbanna/AirJav)** - Java application for real-time ADS-B aircraft data decoding and visualisation.
