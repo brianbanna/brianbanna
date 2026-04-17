@@ -15,7 +15,7 @@ Based in Geneva, Switzerland
 ## About Me
 
 - Studying Data Science with a Financial Engineering minor at EPFL. Research interests at the intersection of **statistical modelling, stochastic processes and quantitative trading**.
-- Current work centres on **time-series econometrics, regime detection and factor-based strategy design** applied to commodity futures and global macro markets.
+- Current work centres on **time-series econometrics, regime detection and factor-based strategy design** applied to commodity futures, energy markets and global macro.
 - Building and backtesting **systematic strategies** with a focus on **cointegration, volatility modelling and portfolio construction** under realistic execution assumptions.
 
 ## Tech Stack
@@ -84,6 +84,6 @@ Based in Geneva, Switzerland
 - **[Adaptive Statistical Arbitrage in Commodity Spreads](https://github.com/brianbanna/adaptive-stat-arb-commodities)** - Cointegration-based spread trading on commodity pairs using Kalman filter hedge ratios, regime-aware entry signals, and full spread backtesting.
 - **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** - Term structure modelling of commodity futures with carry, slope, curvature, and momentum factors traded via cross-sectional and time-series strategies, accounting for roll costs and portfolio-level backtesting.
 - **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** - Walk-forward regime detection using HMM, GARCH, GMM and Markov-switching models on cross-sectional equity and macro data, combined into a probabilistic ensemble to drive portfolio allocation with transaction costs.
-- **[Cross-Border Price Transmission in the European Power Market](https://github.com/brianbanna/power-price-transmission)** - Empirical analysis of day-ahead electricity price transmission across Central European bidding zones, measuring how renewable supply shocks propagate through interconnectors to drive coincident negative-price episodes, rendered as an interactive scrollytelling visualisation on 18 months of ENTSO-E data.
+- **[Cross-Border Price Transmission in the European Power Market](https://github.com/brianbanna/power-price-transmission)** - Empirical analysis of negative-price contagion across five interconnected European bidding zones, quantifying how German renewable surplus propagates through interconnectors using price-gradient flow inference and cross-market correlation on 301k hourly ENTSO-E observations, built as an interactive scrollytelling visualisation.
 - **[Trading Knowledge Vault](https://github.com/brianbanna/trading-knowledge-vault)** - Open source Obsidian knowledge base for commodity and FX trading. Structured notes with bidirectional links, domain tagging and visual knowledge graph covering energy, metals, agriculture, softs, FX and macro concepts.
 - **[AirJav](https://github.com/brianbanna/AirJav)** - Java application for real-time ADS-B aircraft data decoding and visualisation.
