@@ -1,6 +1,6 @@
 # Brian Banna
 
-Master's in Data Science, minor in Financial Engineering @ EPFL - **Quantitative finance, systematic trading and commodity markets.**
+Master's in Data Science, minor in Financial Engineering @ EPFL - **Commodities, quantitative research and systematic trading.**
 
 Based in Geneva, Switzerland
 
@@ -14,9 +14,16 @@ Based in Geneva, Switzerland
 
 ## About Me
 
-- Studying Data Science with a Financial Engineering minor at EPFL. Research interests at the intersection of **statistical modelling, stochastic processes and quantitative trading**.
-- Current work centres on **time-series econometrics, regime detection and factor-based strategy design** applied to commodity futures, energy markets and global macro.
-- Building and backtesting **systematic strategies** with a focus on **cointegration, volatility modelling and portfolio construction** under realistic execution assumptions.
+- Studying Data Science with a Financial Engineering minor at EPFL, with a focus on **commodities, quantitative analysis and trading research**.
+- Current work centres on **futures curves, spread relationships, regime detection and factor-based strategy design** applied to commodity markets and global macro.
+- Building and backtesting **systematic trading strategies** using cointegration, Kalman filtering, volatility modelling and portfolio construction under realistic execution assumptions.
+
+## Current Focus
+
+- Commodity futures curves, term structure signals and cross-market spreads
+- Statistical arbitrage, cointegration and dynamic hedge ratios
+- Market regime detection, volatility modelling and systematic portfolio construction
+- Physical market data, supply-demand dynamics and trading-relevant signal design
 
 ## Tech Stack
 
@@ -41,9 +48,7 @@ Based in Geneva, Switzerland
   <img src="https://img.shields.io/badge/Pandas-4A4A4A?style=flat-square&logo=pandas&logoColor=white" style="margin: 0 1px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/scikit--learn-4A4A4A?style=flat-square&logo=scikit-learn&logoColor=white" style="margin: 0 1px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Statsmodels-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/QuantLib-4A4A4A?style=flat-square&logoColor=white" style="margin: 0 1px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/PyTorch-4A4A4A?style=flat-square&logo=pytorch&logoColor=white" style="margin: 0 1px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/TensorFlow-4A4A4A?style=flat-square&logo=tensorflow&logoColor=white" style="margin: 0 1px; vertical-align: middle;"/>
 
 </div>
 
@@ -81,9 +86,9 @@ Based in Geneva, Switzerland
 
 ## Projects
 
-- **[Adaptive Statistical Arbitrage in Commodity Spreads](https://github.com/brianbanna/adaptive-stat-arb-commodities)** - Cointegration-based spread trading on commodity pairs using Kalman filter hedge ratios, regime-aware entry signals, and full spread backtesting.
-- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** - Built a systematic futures research pipeline across 13+ commodities (~2.4M observations), constructing daily term structures with roll schedules and strict no-lookahead constraints. Engineered carry, slope, curvature, and momentum factors, and evaluated their predictive power through IC analysis and cost-aware backtesting with transaction costs, execution lag, and regime-based performance diagnostics.
-- **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** - Walk-forward regime detection using HMM, GARCH, GMM and Markov-switching models on cross-sectional equity and macro data, combined into a probabilistic ensemble to drive portfolio allocation with transaction costs.
-- **[Cross-Border Price Transmission in the European Power Market](https://github.com/brianbanna/power-price-transmission)** - Empirical analysis of negative-price contagion across five interconnected European bidding zones, quantifying how German renewable surplus propagates through interconnectors using price-gradient flow inference and cross-market correlation on 301k hourly ENTSO-E observations, built as an interactive scrollytelling visualisation.
-- **[Trading Knowledge Vault](https://github.com/brianbanna/trading-knowledge-vault)** - Open source Obsidian knowledge base for commodity and FX trading. Structured notes with bidirectional links, domain tagging and visual knowledge graph covering energy, metals, agriculture, softs, FX and macro concepts.
+- **[Cross-Border Price Transmission in the European Power Market](https://github.com/brianbanna/power-price-transmission)** - Empirical study of price transmission across five interconnected European bidding zones using 301k hourly ENTSO-E observations, with a focus on cross-border market structure, renewable surplus and interconnector-driven price dynamics.
+- **[Adaptive Statistical Arbitrage in Commodity Spreads](https://github.com/brianbanna/adaptive-stat-arb-commodities)** - Commodity spread trading framework using cointegration, Kalman filter hedge ratios, mean reversion signals and regime-aware position sizing under realistic backtesting assumptions.
+- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** - Systematic futures research pipeline across 19 commodity markets using 2.4M observations, constructing daily term structures and evaluating commodity curve and momentum factors through transaction cost aware backtesting and IC analysis.
+- **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** - Walk-forward regime detection using HMM, GARCH, GMM and Markov Switching models on 20 years of market data, combined with regime-driven portfolio allocation and transaction cost aware backtesting.
+- **[Trading Knowledge Vault](https://github.com/brianbanna/trading-knowledge-vault)** - Open source Obsidian knowledge base for commodity and FX trading, covering energy, metals, agriculture, softs, FX, macro concepts and market structure notes.
 - **[AirJav](https://github.com/brianbanna/AirJav)** - Java application for real-time ADS-B aircraft data decoding and visualisation.
