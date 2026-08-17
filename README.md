@@ -14,17 +14,16 @@
 
 ## About Me
 
-- Turning **physical fundamentals** (S&D balances, storage, trade flows, inventories) into views on **futures curves, spreads and regime shifts**.
-- Current work centres on **futures curves, spread relationships, regime detection and factor-based strategy design** applied to commodity markets.
-- Building and backtesting **systematic trading strategies** using cointegration, Kalman filtering, volatility modelling and portfolio construction under realistic execution assumptions.
-- Previously **Quantitative Analyst Intern at Pareto Economics** in London, translating physical market data (production, refining throughputs, trade flows) into commodity signals.
+- Quant Analyst Intern at Cargill in Geneva, freight and commodities side.
+- Previously at Pareto Economics in London, translating physical market data into commodity signals.
+- Translating physical fundamentals into signals on price formation, relative value and volatility across commodity markets.
 
 ## Current Focus
 
-- Commodity futures curves, term structure signals and cross-market spreads
-- Statistical arbitrage, cointegration and dynamic hedge ratios
-- Market regime detection, volatility modelling and systematic portfolio construction
-- Physical market data, supply-demand dynamics and trading-relevant signal design
+- Commodity volatility, variance risk premium and event volatility
+- Day ahead power price formation against fundamental cost
+- Multi leg relative value across cointegrated commodity baskets
+- A shared pricing engine used across all 3
 
 ## Tech Stack
 
@@ -46,9 +45,10 @@
 
 ## Projects
 
-- **[Cross-Border Price Transmission in the European Power Market](https://github.com/brianbanna/power-price-transmission)** · [Live](https://brianbanna.com/power-price-transmission/) - Empirical study of price transmission across five interconnected European bidding zones using 301k hourly ENTSO-E observations, with a focus on cross-border market structure, renewable surplus and interconnector-driven price dynamics.
-- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** · [Live](https://brianbanna.com/commodity-curve-factors/) - Systematic futures research pipeline across 19 commodity markets using 2.4M observations, constructing daily term structures and evaluating commodity curve and momentum factors through transaction cost aware backtesting and IC analysis.
-- **[Adaptive Statistical Arbitrage in Commodity Spreads](https://github.com/brianbanna/adaptive-stat-arb-commodities)** - Building statistical arbitrage models on commodity spreads using cointegration, Kalman filter hedge ratios, walk-forward validation, transaction costs and regime-aware position sizing.
-- **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** · [Live](https://brianbanna.com/systematic-regime-trading/) - Walk-forward regime detection using HMM, GARCH, GMM and Markov Switching models on 20 years of US equity data, with regime-driven allocation and transaction cost aware backtesting. Sharpe 0.70 with max drawdown reduced from 55% to 28% vs SPY.
-- **[Trading Knowledge Vault](https://github.com/brianbanna/trading-knowledge-vault)** - Open source Obsidian knowledge base for commodity and FX trading, covering energy, metals, agriculture, softs, FX, macro concepts and market structure notes.
-- **[AirJav](https://github.com/brianbanna/AirJav)** - Java application for real-time ADS-B aircraft data decoding and visualisation.
+- **[Commodity Volatility Trading](https://github.com/brianbanna/commodity-volatility-trading)** · Aug 2026 to present. Trading commodity volatility through variance risk premium harvesting, event volatility around EIA and WASDE releases, and a P&L decomposition across theta, gamma, vega and hedge friction.
+- **[Day Ahead Power Price Formation](https://github.com/brianbanna/day-ahead-power-price-formation)** · Aug 2026 to present. Measuring the daily markup between EPEX day ahead auction prices and a fundamental merit order stack, with a public monitor and a Q learning auction simulator.
+- **[Multi Leg Relative Value with Break Detection](https://github.com/brianbanna/adaptive-stat-arb-commodities)** · May 2026 to present. Building relative value models on commodity baskets with Johansen cointegration, a 3 layer break detector and a shared pricing engine.
+- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** · [Live](https://brianbanna.com/commodity-curve-factors/) · Jan 2026 to Apr 2026. Built carry, curve and momentum factor strategies across 19 commodity futures markets with transaction cost aware backtesting.
+- **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** · [Live](https://brianbanna.com/systematic-regime-trading/) · Oct 2025 to Jan 2026. Built walk forward regime detection models (HMM, GARCH, GMM, Markov Switching) on 20 years of market data.
+- **[Trading Knowledge Vault](https://github.com/brianbanna/trading-knowledge-vault)** · Open source Obsidian knowledge base for commodity and FX trading, covering energy, metals, agriculture, softs, FX and macro.
+- **[AirJav](https://github.com/brianbanna/AirJav)** · Feb 2023 to Jun 2023. Built a JavaFX flight tracker decoding live ADS-B aircraft signals into position and velocity in real time.
