@@ -2,7 +2,7 @@
 
 **Quant Analyst Intern @ Cargill** · MSc Data Science, minor in Financial Engineering @ EPFL
 
-**Commodities, quantitative research and systematic trading.** Based in Geneva, Switzerland.
+**Commodities, quantitative and systematic trading.** Based in Geneva, Switzerland.
 
 <div align="center">
 
@@ -15,7 +15,6 @@
 ## About Me
 
 - Quant Analyst Intern at Cargill in Geneva, freight and commodities side.
-- Previously at Pareto Economics in London, translating physical market data into commodity signals.
 - Translating physical fundamentals into signals on price formation, relative value and volatility across commodity markets.
 
 ## Current Focus
@@ -23,7 +22,6 @@
 - Commodity volatility, variance risk premium and event volatility
 - Day ahead power price formation against fundamental cost
 - Multi leg relative value across cointegrated commodity baskets
-- A shared pricing engine used across all 3
 
 ## Tech Stack
 
@@ -45,10 +43,10 @@
 
 ## Projects
 
-- **[Commodity Volatility Trading](https://github.com/brianbanna/commodity-volatility-trading)** · Aug 2026 to present. Trading commodity volatility through variance risk premium harvesting, event volatility around EIA and WASDE releases, and a P&L decomposition across theta, gamma, vega and hedge friction.
-- **[Day Ahead Power Price Formation](https://github.com/brianbanna/day-ahead-power-price-formation)** · Aug 2026 to present. Measuring the daily markup between EPEX day ahead auction prices and a fundamental merit order stack, with a public monitor and a Q learning auction simulator.
-- **[Multi Leg Relative Value with Break Detection](https://github.com/brianbanna/adaptive-stat-arb-commodities)** · May 2026 to present. Building relative value models on commodity baskets with Johansen cointegration, a 3 layer break detector and a shared pricing engine.
-- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** · [Live](https://brianbanna.com/commodity-curve-factors/) · Jan 2026 to Apr 2026. Built carry, curve and momentum factor strategies across 19 commodity futures markets with transaction cost aware backtesting.
-- **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** · [Live](https://brianbanna.com/systematic-regime-trading/) · Oct 2025 to Jan 2026. Built walk forward regime detection models (HMM, GARCH, GMM, Markov Switching) on 20 years of market data.
+- **[Commodity Volatility Trading](https://github.com/brianbanna/commodity-volatility-trading)** · Trading commodity volatility through variance risk premium harvesting, event volatility around EIA and WASDE releases, and a P&L decomposition across theta, gamma, vega and hedge friction.
+- **[Day Ahead Power Price Formation](https://github.com/brianbanna/day-ahead-power-price-formation)** · Measuring the daily markup between EPEX day ahead auction prices and a fundamental merit order stack, with a public monitor and a Q learning auction simulator.
+- **[Multi Leg Relative Value with Break Detection](https://github.com/brianbanna/adaptive-stat-arb-commodities)** · Building relative value models on commodity baskets with Johansen cointegration, a 3 layer break detector and a shared pricing engine.
+- **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** · [Live](https://brianbanna.com/commodity-curve-factors/) · Built carry, curve and momentum factor strategies across 19 commodity futures markets with transaction cost aware backtesting.
+- **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** · [Live](https://brianbanna.com/systematic-regime-trading/) · Built walk forward regime detection models (HMM, GARCH, GMM, Markov Switching) on 20 years of market data.
 - **[Trading Knowledge Vault](https://github.com/brianbanna/trading-knowledge-vault)** · Open source Obsidian knowledge base for commodity and FX trading, covering energy, metals, agriculture, softs, FX and macro.
-- **[AirJav](https://github.com/brianbanna/AirJav)** · Feb 2023 to Jun 2023. Built a JavaFX flight tracker decoding live ADS-B aircraft signals into position and velocity in real time.
+- **[AirJav](https://github.com/brianbanna/AirJav)** · Built a JavaFX flight tracker decoding live ADS-B aircraft signals into position and velocity in real time.
