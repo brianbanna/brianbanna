@@ -44,7 +44,6 @@
 ## Projects
 
 - **[Commodity Volatility Trading](https://github.com/brianbanna/commodity-volatility-trading)** · Trading commodity volatility through variance risk premium harvesting, event volatility around EIA and WASDE releases, and a P&L decomposition across theta, gamma, vega and hedge friction.
-- **[Day Ahead Power Price Formation](https://github.com/brianbanna/day-ahead-power-price-formation)** · Measuring the daily markup between EPEX day ahead auction prices and a fundamental merit order stack, with a public monitor and a Q learning auction simulator.
 - **[Multi Leg Relative Value with Break Detection](https://github.com/brianbanna/adaptive-stat-arb-commodities)** · Building relative value models on commodity baskets with Johansen cointegration, a 3 layer break detector and a shared pricing engine.
 - **[Commodity Futures Curve Modeling and Factor Trading](https://github.com/brianbanna/commodity-curve-factors)** · [Live](https://brianbanna.com/commodity-curve-factors/) · Built carry, curve and momentum factor strategies across 19 commodity futures markets with transaction cost aware backtesting.
 - **[Market Regime Modeling for Systematic Trading](https://github.com/brianbanna/systematic-regime-trading)** · [Live](https://brianbanna.com/systematic-regime-trading/) · Built walk forward regime detection models (HMM, GARCH, GMM, Markov Switching) on 20 years of market data.
