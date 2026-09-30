@@ -1,6 +1,6 @@
 # Brian Banna
 
-**Quant Analyst Intern @ Cargill** · MSc Data Science, minor in Financial Engineering @ EPFL
+**Quant Analyst @ Cargill** · MSc Data Science, minor in Financial Engineering @ EPFL
 
 **Commodities, quantitative and systematic trading.** Based in Geneva, Switzerland.
 
@@ -14,14 +14,14 @@
 
 ## About Me
 
-- Quant Analyst Intern at Cargill in Geneva, freight and commodities side.
+- Quant Analyst on the freight trading desk at Cargill in Geneva.
 - Translating physical fundamentals into signals on price formation, relative value and volatility across commodity markets.
 
 ## Current Focus
 
 - Commodity volatility, variance risk premium and event volatility
 - Day ahead power price formation against fundamental cost
-- Multi leg relative value across cointegrated commodity baskets
+- Multi leg relative value with break detection across commodity baskets
 
 ## Tech Stack
 
