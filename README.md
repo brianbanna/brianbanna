@@ -2,7 +2,7 @@
 
 **Quant Analyst @ Cargill** · MSc Data Science, minor in Financial Engineering @ EPFL
 
-**Commodities, quantitative and systematic trading.** Based in Geneva, Switzerland.
+**Commodities, quantitative and physical trading.** Based in Geneva, Switzerland.
 
 <div align="center">
 
